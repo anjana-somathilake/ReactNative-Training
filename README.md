@@ -15,3 +15,5 @@
 
 --
 * [Katas] (https://github.com/jondot/ReactNativeKatas)
+* [Basic Styles] (https://egghead.io/lessons/react-applying-basic-styles-in-react-native)
+* [Layout Animations] (https://egghead.io/lessons/react-react-native-layoutanimation-basics)
