@@ -1,6 +1,6 @@
 # ReactNative-Training
 
-![YAP](http://67.media.tumblr.com/edd84e80f6251fc87ab7b8f398649f20/tumblr_mwlfv4RLMR1ssei49o1_500.gif)
+![YAP](https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif)
 
 ### ES6
 * [JSX to JS] (http://babeljs.io/repl/)
