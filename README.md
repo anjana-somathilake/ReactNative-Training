@@ -19,14 +19,14 @@
 * [Flexbox Froggy] (http://flexboxfroggy.com/)
 </details>
 
---
 <details>
-<summary>Tutorials</summary>
+<summary>Layout Tutorials</summary>
 * [Katas] (https://github.com/jondot/ReactNativeKatas)
 * [Basic Styles] (https://egghead.io/lessons/react-applying-basic-styles-in-react-native)
 * [Layout Animations] (https://egghead.io/lessons/react-react-native-layoutanimation-basics)
 </details>
 
+--
 
 <details>
 <summary>UI Component  </summary>
